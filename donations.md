@@ -87,15 +87,13 @@ Again, **if you haven't read everything above, please read the following summary
 If you did read as requested and do want to make a donation, here's the link:
 
 <details>
-<summary>Click to reveal link</summary>
-<p>
+  <summary>Click to reveal link</summary>
 
-**Please do not share the link around**; anyone seeking to donate should instead be directed towards this page to 
-read the details.
+  **Please do not share the link around**; anyone seeking to donate should instead be directed towards this page to 
+  read the details.
 
-https://ko-fi.com/alaux
+  https://ko-fi.com/alaux
 
-**Thank you!**
+  **Thank you!**
 
-</p>
 </details> 

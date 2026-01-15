@@ -84,24 +84,16 @@ Again, **if you haven't read everything above, please read the following summary
   - Nugget Doom is based on Woof! and has a few direct contributors besides me.
   - Smooth Doom MBF21 was clearly made off of Smooth Doom.
 
-If you did read as requested and do want to make a donation, here's the link:
+If you did read as requested and do want to make a donation, here's the link. **Please do not share it around**; 
+anyone seeking to donate should instead be directed towards this page to read the details.
 
 <details>
   <summary>Click to reveal link</summary>
-
-  <br>
-
-  <p>
-    <strong>Please do not share the link around</strong>; 
-    anyone seeking to donate should instead be directed towards this page to read the details.
-  </p>
 
   <p>
     <a href="https://ko-fi.com/alaux">https://ko-fi.com/alaux</a>
   </p>
 
-  <p>
-    <strong>Thank you!</strong>
-  </p>
-
 </details>
+
+**Thank you!**

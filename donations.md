@@ -1,3 +1,6 @@
+---
+---
+
 # Before you donate...
 
 There are a few things I want you to know before you make a donation, involving terms and whether you should donate 

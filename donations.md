@@ -89,15 +89,17 @@ If you did read as requested and do want to make a donation, here's the link:
 <details>
   <summary>Click to reveal link</summary>
 
-  <div markdown="1">
+  <p>
+    <strong>Please do not share the link around</strong>; 
+    anyone seeking to donate should instead be directed towards this page to read the details.
+  </p>
 
-    **Please do not share the link around**; anyone seeking to donate should instead be directed towards this page to 
-    read the details.
+  <p>
+    <a href="https://ko-fi.com/alaux">https://ko-fi.com/alaux</a>
+  </p>
 
-    https://ko-fi.com/alaux
-
-    **Thank you!**
-
-  </div>
+  <p>
+    <strong>Thank you!</strong>
+  </p>
 
 </details>

@@ -89,6 +89,8 @@ If you did read as requested and do want to make a donation, here's the link:
 <details>
   <summary>Click to reveal link</summary>
 
+  <br>
+
   <p>
     <strong>Please do not share the link around</strong>; 
     anyone seeking to donate should instead be directed towards this page to read the details.

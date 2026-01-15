@@ -1,4 +1,4 @@
-# Alaux's site
+# Homepage
 
 Not much to see here.
 
